@@ -1,2 +1,2 @@
 # goit-js-hw-05
-js-hw-04
+js-hw-05
